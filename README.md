@@ -1,3 +1,3 @@
 # geovanelima.github.io
-Exemplo de site Hospedado no GitHub Pages
+Exemplo de site Hospedado no GitHub Pages.
 Teste de Edição.
